@@ -1,0 +1,6 @@
+[submodule "gol"]
+	path = gol
+	url = https://github.com/Leeladhar14/game-of-life.git
+[submodule "spc"]
+	path = spc
+	url = https://github.com/Leeladhar14/spring-petclinic.git
